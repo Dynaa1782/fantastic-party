@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+    background-color: beige;
+}
+
+header {
+    background-color: bisque;
+    color: rgb(182, 149, 95);
+    padding: 20px;
+}
+
+header a {
+    text-decoration: underline;
+    background-color: rgb(133, 80, 80);
+    color: moccasin;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+main h1 {
+    font-size: medium;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border: 2px solid rgb(189, 142, 142);
+    border-radius: 6px;
+}
+
+footer {
+    background-color: rgb(236, 236, 200);
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: rgb(252, 252, 126);
+    color: rgb(161, 161, 58);
+    padding: 10px;
+    margin: 15px;
+    border-radius: 15px;
+
+}
+
+main{
+    padding: 25px;
+}
+
+.product {
+    background-color: azure;
+    padding: 20px;
+    border: 10px solid rgb(140, 165, 165);
+    border-radius: 25px;
+}
+
+.section {
+    background-color: aliceblue;
+    color: rgb(163, 175, 184);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.button {
+    background-color: aliceblue;
+}
